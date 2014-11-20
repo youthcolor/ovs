@@ -141,8 +141,3 @@ void
 route_table_wait(void)
 {
 }
-
-void
-ovs_router_unixctl_register(void)
-{
-}
